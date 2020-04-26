@@ -1,37 +1,25 @@
 ## Bienvenido a AwesomeDevs
 
-You can use the [editor on GitHub](https://github.com/SalesianosZaragoza/ScrumEDD/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![logo](https://salesianoszaragoza.github.io/ScrumEDD/logo.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ # Bienvenido!
+El objetivo de la actividad es que aprendáis el proceso de entrada en una compañía de software y cómo se trabaja desde el principio al entrar en un proyecto.
 
-### Markdown
+ ## Cronograma
+| Dia | Sprint |
+| ------ | ------ |
+| 27 Abril | SPRINT 1 - Documentación |
+| 30 Abril | SPRINT 1 - Documentación  |
+| 4 Mayo | SPRINT 1 - Documentación  |
+| 7 Mayo | SPRINT 1 - Documentación  |
+| ------ | ------ |
+| 11 Mayo | SPRINT 2 - Prototipo para Cliente  |
+| 14 Mayo | SPRINT 2 - Prototipo para Cliente  |
+| 18 Mayo |  SPRINT 2 - Prototipo para Cliente  |
+| 21 Mayo |  SPRINT 2 - Prototipo para Cliente |
+| ------ | ------ |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ ## Información
+En esta wiki se pondrá la información relevante de la actividad.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SalesianosZaragoza/ScrumEDD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Puedes visitar la web alojada en Github: https://salesianoszaragoza.github.io/ScrumEDD/
