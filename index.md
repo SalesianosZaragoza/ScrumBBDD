@@ -3,9 +3,11 @@
 ![logo](https://salesianoszaragoza.github.io/ScrumEDD/logo.png)
 
  # Bienvenido!
+ 
 El objetivo de la actividad es que aprendáis el proceso de entrada en una compañía de software y cómo se trabaja desde el principio al entrar en un proyecto.
 
  ## Cronograma
+ 
 | Dia | Sprint |
 | ------ | ------ |
 | 27 Abril | SPRINT 1 - Documentación |
@@ -20,6 +22,7 @@ El objetivo de la actividad es que aprendáis el proceso de entrada en una compa
 | ------ | ------ |
 
  ## Información
+ 
 En esta wiki se pondrá la información relevante de la actividad.
 
 Puedes visitar la web alojada en Github: https://salesianoszaragoza.github.io/ScrumEDD/
